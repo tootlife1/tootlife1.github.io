@@ -1,13 +1,49 @@
 ---
 permalink: /
-title: "Michael J. May at Kinneret College academic profile page"
+title: "Michael J. May"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+[Dr. Efrat Kantor](https://www.kinneret.ac.il/staff/%d7%90%d7%a4%d7%a8%d7%aa-%d7%a7%d7%a0%d7%98%d7%95%d7%a8/) and I developed the [CemoMemo](https://www.cemomemo.org/) website and application for crowd-sourced documentation of graves and grave stones (soon to have automatic character recognition (OCR) for gravestones!).
+
+I served as the head of the [Asparna](http://www.asparna.com/) Research Center (ARC) at Kinneret until 2023.  One major project at ARC is [file life cycle analysis and complex file events](https://doi.org/10.1145/3295463).  Our most recent publication on the topic extends complex file events to Android in a system called [CEMDA](https://www2.kinneret.ac.il/mjmay/cemda/index.html).
+
+I am interested in ways of applying formal methods to evaluate privacy and security properties of protocols and policies. My work includes automated verification of security properties of web service protocols as well as the development of a language, theory, and tools for flexible evaluation of a wide variety of privacy policies.
+
+I have been affiliated in the past with [Insup Lee's](https://www.cis.upenn.edu/~lee/home/index.shtml) [Real Time Systems Group](https://rtg.cis.upenn.edu/) and [Carl A.Gunter's](https://siebelschool.illinois.edu/about/people/faculty/cgunter) [Illinois Security Lab](https://seclab.illinois.edu/), including working on the [WSEmail project](https://www2.kinneret.ac.il/mjmay/wsemail/index.html).
+
+I received my Ph.D. from the [University of Pennsylvania](https://www.cis.upenn.edu/). My [dissertation](https://www2.kinneret.ac.il/mjmay/pubs/May08-dissertation.pdf) and a list of my [online publications](https://tootlife1.github.io/publications/) is available.
+
+News and Recent Activities
+--
+
+*    Extended version of a paper with Amir Tomer on improving capstone projects with fill-in templates (October 2023) in [IFIP Advances in Information and Communication Technology](https://link.springer.com/book/9783031433924).
+*    Paper with Efrat Kantor on using CemoMemo and similar cemetery databases to analyze attitudes toward death and suicide in Halutzi, pre-state Israel at [AIS 2023](https://ws.eventact.com/Conference2023/Home).
+*    An extended version of a paper with Kobi Cohen, Hovav Menachem, and Yogev Swissa on complex events for Android published in [ACM SIGAPP Applied Computing Review](https://dl.acm.org/doi/abs/10.1145/3584014.3584016)
+*    Published [patent](https://patents.google.com/patent/IL284315B/en?) with Etamar Laron of Asparna on patch generation and application.
+*    Paper on [Donag](https://doi.org/10.1145/3507919), a new technique for producing significantly smaller deltas (differencing files) for compressed archives in [ACM Transactions on Storage](https://dl.acm.org/journal/tos)
+*    Paper with Amir Tomer on improving capstone projects with fill-in templates in [IFIP WCCE 2022: World Conference on Computers in Education](https://wcce2022.org/).  More on the project and templates can be found at the [projects home page](https://www2.kinneret.ac.il/mjmay/finalprojects.html).
+*    Paper with Kobi Cohen, Hovav Menachem, and Yogev Swisa on complex events for Android appeared in [2022 ACM SIG APP Symposium on Applied Computing](http://www.sigapp.org/sac/sac2022/)
+*    [CemoMemo paper](https://dl.acm.org/doi/10.1145/3467888) published in [ACM Journal on Computing and Cultural Heritage](https://dl.acm.org/journal/jocch).
+*    [WSEmail](https://www2.kinneret.ac.il/mjmay/wsemail/index.html) [paper](https://link.springer.com/article/10.1007%2Fs11761-019-00283-9) published in [Service Oriented Computing and Applications](https://link.springer.com/journal/11761).
+*    Our [CemoMemo cemetery digitization application](https://www.cemomemo.org/) has gotten coverage in major Israeli news sources in [ynet (HE)](https://www.ynet.co.il/articles/0,7340,L-5550458,00.html), [vesty (RU)](https://www.vesty.co.il/articles/0,7340,L-5550840,00.html), and [no camels (EN)](https://nocamels.com/2019/11/wikipedia-graves-israeli-app-cemomemo/)
+*    External expert reviewer (Requirements Engineering 2016, 2018, 2019 and IEEE Computer 2021)
+*    Technical Program committee for ICIMP 2022 - 2008
+
+Personal
+--
+
+My [alter ego](https://www.vet.upenn.edu/people/faculty-clinician-search/MICHAELMAY) teaches in the University of Pennsylvania Dept of Veterinary Medicine.
+
+In my spare time, I [teach](https://mathstat.slu.edu/%7Emay/) in a department of math and computer science (like the collar?), serve as the [principal](http://www.thevillagernewspaper.com/2020/03/09/michael-may-to-be-named-avon-lake-high-school-principal/) of an Ohio high school, work as a [movie](https://www.imdb.com/name/nm7231602/) [extra](https://www.imdb.com/name/nm6068637/), am an [emeritus professor](https://cisac.fsi.stanford.edu/people/michael_m_may) of management science and engineering, acted as a distinguished [executive-in-residence](https://blogs.babson.edu/leadership/2016/05/03/babson-professors-retiring/) in Babson until 2016, write in a [Texan magazine](https://www.austinchronicle.com/authors/michael-may/), give [inspirational speeches](http://www.senderogroup.com/mm/mike.html), do [surveying](https://www.touchlondon.co.uk/business/michael-may-and-partners/116188) and [comedy](https://www.michaelmaycomedy.com/) in London, liked a hair restoration product enough to become a doctor in it in [London](https://wimpoleclinic.com/staff-member/dr-michael-may-frcs/) (but not to the detriment of my bustling [ophthalmology](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/michael-may-2847092) practice), sell real estate professionally in [in London](https://www.michaelmay.co.uk/), keep a [very dark blog](https://michaelmay.livejournal.com/), act as a disk jockey for [hip hop](http://www.pixelbiscuit.com/profilemichaelmay.html) parties and [weddings](https://www.michaelmay.com/home-page.html), served in the [Old Guard](https://www.arlingtoncemetery.net/michael-may-photos.htm) for a few years at Arlington, write books about [poetry](https://www.amazon.com/When-Poetry-Began-Michael-May/dp/1549835564), recently began teaching in [public school](http://data.kitsapsun.com/projects/wa-school/staff/ZU27166/) in Washington state, work as a [producer at a story lab](https://www.npr.org/people/495662528/michael-may), serve as [admissions director](https://www.sru.edu/admissions/first-year-students/meet-your-admissions-counselors) at a Pennsylvania university, maintain a meme-themed [social media page](https://www.instagram.com/michael_may_official/?hl=en), and have theories on [high energy](https://search.proquest.com/docview/305172501). Rumors of [my](https://www.croswellfuneralhome.com/michael-j-may/) [demise](https://www.nealfuneralhome.com/obituary/michael-may) have been grossly exaggerated. I also believe that any information on the web should be evaluated critically.
+
+I have come to acquire great respect for [Alice and Bob](https://urbigenous.net/library/alicebob.html).
+
+
+<!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -54,3 +90,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->

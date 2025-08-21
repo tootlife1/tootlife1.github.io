@@ -8,6 +8,7 @@ date: 2006-07-05
 venue: '19th IEEE Computer Security Foundations Workshop (CSFW)'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://repository.upenn.edu/handle/20.500.14332/6293'
+bibtexurl: /files/MayGL06.bib
 citation: 'M. J. May, C. A. Gunter and I. Lee, <u>Privacy APIs: access control techniques to analyze and verify legal privacy policies</u>, in <i>19th IEEE Computer Security Foundations Workshop (CSFW 2006)</i>, Venice, Italy, 2006, pp. 13 pp.-97, doi: 10.1109/CSFW.2006.24.'
 ---
 

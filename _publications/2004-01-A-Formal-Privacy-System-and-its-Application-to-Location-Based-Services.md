@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2004-01-A-Formal-Privacy-System-and-its-Application-to-Location-Based-Services
 excerpt: 'A formalization of privacy policies and their application to location based services'
-date: 2004-05
+date: 2004-05-26
 venue: 'Privacy Enhancing Technologies (PET 04)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.academia.edu/download/2876775/3dchexkwg0y8tfh.pdf'

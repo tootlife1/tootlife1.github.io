@@ -22,7 +22,7 @@ repository               : "tootlife1/tootlife1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/michael-hs19-smaller.jpg"
+  avatar           : "https://tootlife1.github.io/images/michael-hs19-smaller.jpg"
   name             : "Michael J May"
   pronouns         : # example: "she/her"  
   bio              : "Algorithms and communication security researcher and senionr lecturer in computer software at Kinneret College"

@@ -1,0 +1,7 @@
+@INPROCEEDINGS{MaySGL06,
+  AUTHOR =       {Michael J. May, Wook Shin, Carl A. Gunter, and Insup Lee},
+  TITLE =        {Securing the Drop-box Architecture for Assisted Living},
+  BOOKTITLE =    {4th ACM Workshop on Formal Methods in Security Engineering: From Specifications to Code},
+  YEAR =         {2006},
+  month =        {Nov},
+}

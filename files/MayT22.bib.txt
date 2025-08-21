@@ -1,0 +1,11 @@
+@INPROCEEDINGS{MayT22,
+  author =       {Michael J. May, Amir Tomer},
+  title =        {Improving a Model-Based Software Engineering Capstone Course},
+  booktitle =    {Proceedings of IFIP WCCE 2022: World Conference on Computers in Education},
+  year =         {2022},
+  pages =        {195},
+  address =      {Hiroshima, Japan},
+  month =        {Aug},
+  organization = {IFIP},
+  note =         {\url{https://wcce2022.org/WCCE_2022_Book_of_Abstracts.pdf}},
+}

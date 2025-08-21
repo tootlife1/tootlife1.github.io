@@ -1,0 +1,7 @@
+@TECHREPORT{May03,
+  AUTHOR =       {Michael J. May},
+  TITLE =        {Location Privacy: A Comparison of Technologies and Approaches},
+  INSTITUTION =  {University of Pennsylvania},
+  YEAR =         {2003},
+  type =         {Written Preliminary Exam Report},
+}

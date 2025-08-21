@@ -1,0 +1,17 @@
+@inproceedings{MayCMS22,
+author = {May, Michael J and Cohen, Yaakov and Menachem, Hovav and Swisa, Yogev},
+title = {CEMDA: Detecting Android Complex File Events to Infer the User's Mental Model},
+year = {2022},
+isbn = {9781450387132},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3477314.3507009},
+doi = {10.1145/3477314.3507009},
+abstract = {People use smartphones to do many tasks: view email attachments, read social media posts, create and edit photographs, and forward files. The user's perspective on actions performed when creating, viewing, and modifying files (her mental model) reflects the visible clicks and swipes performed. At the file system and OS, however, such actions are less clear. A single click can lead to a flurry of hundreds of file system reads and writes, system calls, and communication steps. While individual apps can use analytics to record in-app user actions, common patterns such as download-read-forward cross app boundaries and become difficult to discover. That lack leads to inefficiencies in on-device file management and backup.To better enable apps and devices to discover the user's mental model, we present CEMDA, an Android app that automatically detects the user's mental model by applying the theories of file lifecycle events and complex events. CEMDA detects 12 high level user stories in 4 categories of user actions (create, access, share, modify) while operating completely in user space and without OS modification. CEMDA successfully detects user actions in cross-app actions across popular messaging and productivity apps (e.g., WhatsApp, Adobe Reader) with 80%-100% success while consuming minimal battery and memory.},
+booktitle = {Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing},
+pages = {917–925},
+numpages = {9},
+keywords = {rule based systems, file lifecycle, mental model, complex file events},
+location = {Virtual Event},
+series = {SAC '22}
+}

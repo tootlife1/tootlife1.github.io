@@ -1,0 +1,8 @@
+@InProceedings{MayGLZ09,
+  author =  {Michael J. May and Carl A. Gunter and Insup Lee and Steve Zdanceic},
+  title =    {Strong and Weak Policy Relations},
+  booktitle =	{IEEE Symposium on Policies for Distributed Systems and Networks ({POLICY} '09)},
+  year =    2009,
+  address = {London},
+  month =   {July},
+}

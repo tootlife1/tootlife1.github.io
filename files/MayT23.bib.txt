@@ -1,0 +1,13 @@
+@InProceedings{MayT23,
+author		="May, Michael J. and Tomer, Amir",
+editor		="Keane, Therese and Lewin, Cathy and Brinda, Torsten and Bottino, Rosa",
+title		="Improving a Model-Based Software Engineering Capstone Course",
+booktitle 	= "Towards a Collaborative Society Through Creative Learning",
+year 		= "2023",
+publisher	= "Springer Nature Switzerland",
+address		= "Cham",
+pages		= "567--578",
+abstract	= "Capstone projects are a common feature of software engineering bachelor's degrees. We report on the experience and lessons learned from a decade of capstone projects at a small regional Israeli college. We first created a capstone process adapted to the department's model-based software design philosophy, cultural aspects of the student body, and the sparse industrial environment surrounding the college. After several years, we improved the process through the introduction of mandatory fill-in report templates. Analyses of ten years of project statistics and outcomes led us to an understanding of what capstone features led to better outcomes and how the report templates affected grading outcomes. Our templates are released under the Creative Commons Attribution-ShareAlike 4.0 International License.",
+isbn		= "978-3-031-43393-1"
+}
+

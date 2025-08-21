@@ -1,0 +1,13 @@
+@INPROCEEDINGS{MayL19-ARW,
+author={M. J. {May} and E. {Laron}},
+booktitle={2019 10th IFIP International Conference on New Technologies, Mobility and Security (NTMS)},
+title={Combating Ransomware using Content Analysis and Complex File Events},
+year={2019},
+volume={},
+number={},
+pages={1-5},
+abstract={Crypto-ransomware are programs that encrypt files and demand payment for their release or decryption. A common tactic to combat ransomware is file monitoring for suspicious modifications and recovery from (automatically maintained) backups. We offer two techniques to improve the state of the art: the consideration of the file lifecycle and the use of content analysis. We consider the file lifecycle using complex events that allow us to better reflect the user's mental model (what the user thinks he is doing), leading to more intelligent file event processing. Content analysis using Apache Tika allows us to detect attacks by watching for suspicious content type changes. We implement both techniques in a tool (ARW) and prove its effectiveness against the $ucyLocker ransomware. Both techniques should be considered for integration into existing anti-ransomware tools to improve their effectiveness.},
+keywords={Ransomware;Tools;Cognitive science;Encryption;Monitoring;Entropy;ransomware;content analysis;file lifecycle analysis},
+doi={10.1109/NTMS.2019.8763851},
+ISSN={2157-4960},
+month={June},}

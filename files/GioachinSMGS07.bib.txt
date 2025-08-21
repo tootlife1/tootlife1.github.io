@@ -1,0 +1,8 @@
+@InProceedings{GioachinSMGS07,
+  author = 	 {Filippo Gioachin and Ravinder Shankesi and Michael J. May and Carl A. Gunter and Wook Shin},
+  title = 	 {Emergency Alerts as {RSS} Feeds with Interdomain Authorization},
+  booktitle = 	 {IARIA International Conference on Internet Monitoring and Protection ({ICIMP} '07},
+  year =	 2007,
+  address =	 {Santa Clara, CA},
+  month =	 {July}
+}

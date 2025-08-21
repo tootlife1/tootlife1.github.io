@@ -1,0 +1,11 @@
+@ARTICLE{MayLG20,
+  author =       {Michael J. May and Kevin D. Lux and Carl A. Gunter},
+  title =        {WSEmail: An architecture and system for secure Internet messaging based on web services},
+  journal =      {Service Oriented Computing and Applications (SOCA)},
+  year =         {2020},
+  volume =       {14},
+  month =        {Jan},
+  doi =          {https://doi.org/10.1007/s11761-019-00283-9},
+  pages = 		 {5--17},
+  publisher = 	 {Springer Nature},
+}

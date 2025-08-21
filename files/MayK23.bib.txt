@@ -1,0 +1,13 @@
+@INPROCEEDINGS{MayK23,
+  author =       {Michael J. May},
+  title =        {Memorialization and Attitudes Toward Suicide in Halutzi-Era Burials},
+  booktitle =    {39th Annual Conference of the Association for Israel Studies},
+  year =         {2023},
+  address =      {Haifa, Israe},
+  month =        {June},
+  organization = {Association for Israel Studies},
+  publisher =    {Association for Israel Studies},
+  url =         {https://program.eventact.com/LectureView/61308/172247/en},
+  abstract =    {Communities memorialize their dead through gravestones, messages to the future carved in stone. Gravestone text and attributes reflect what the remembering community sought to preserve forever. As such, they are a window into attitudes about the person specifically and death in general. The Second and Third Aliyah ḥalutzi period in the Land of Israel (1910-1923) was a landmark period of social change and innovation. New communal attitudes emerged and communities dealt with social difficulties, including a troubling number of suicides. We examine ḥalutzi period burial culture generally and attitude toward suicide specifically through 162 gravestones from the period, including 30 from cases of suicide. We show that gravestones of suicide cases were typical for the period, showing signs of acceptance. Through the set, we also explore other trends, including use of sacred language, memorialization of family and social group, recording cause of death, and analysis of sentiments expressed through
+  epitaphs.},
+}

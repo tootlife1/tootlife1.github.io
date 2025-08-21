@@ -1,0 +1,9 @@
+@Inproceedings{LuxMBG05,
+  author =  {Kevin D. Lux and Michael J. May and Nayan L. Bhattad and Carl A. Gunter},
+  title =  {{WSEmail}: Secure Internet Messaging Based on Web Services},
+  year =  2005,
+  booktitle =  {International Conference on Web Services ({ICWS} '05)},
+  address =  {Orlando FL},
+  month =  {July},
+  organization = {IEEE}
+}

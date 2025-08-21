@@ -1,0 +1,8 @@
+@InProceedings{GunterMS04,
+  author =  {Carl A. Gunter and Michael J. May and Stuart Stubblebine},
+  title =    {A Formal Privacy System and its Application to Location Based Services},
+  booktitle =	{Privacy Enhancing Technologies ({PET} '04)},
+  year =    2004,
+  address = {Toronto},
+  month =   {May},
+}

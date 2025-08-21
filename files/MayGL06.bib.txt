@@ -1,0 +1,8 @@
+@InProceedings{MayGL06,
+  title = 	 {Privacy {API}s: {Access} Control Techniques to Analyze and Verify Legal Privacy Rules},
+  year = 	 2006,
+  author = 	 {Michael J. May and Carl A. Gunter and Insup Lee},
+  booktitle = 	 {{IEEE} Computer Security Foundations Workshop ({CSFW} '06)},
+  address =	 {Venice, Italy},
+  month =	 {July}
+}

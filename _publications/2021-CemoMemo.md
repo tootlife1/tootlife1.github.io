@@ -2,7 +2,7 @@
 title: "CemoMemo: Making More Out of Gravestones (With Help From the Crowd)"
 collection: publications
 category: manuscripts
-permalink: /publication/2019-CemoMemo
+permalink: /publication/2021-CemoMemo
 excerpt: 'A exploration of a crowd-sourced cemetery and gravestone documentation system called CemoMemo.  Includes software architecture descriptions and usage lessons.'
 date: 2021-08-20
 venue: 'Journal on Computing and Cultural Heritage'

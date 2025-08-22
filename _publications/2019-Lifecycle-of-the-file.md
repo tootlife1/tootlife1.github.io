@@ -7,6 +7,7 @@ excerpt: 'A foundational exploration of files and their lifecycle with applicati
 date: 2019-02-18
 venue: 'ACM Transactions on Storage (TOS)'
 bibtexurl: 'files/MayLZG19.bib'
+paperurl: 'https://dl.acm.org/doi/10.1145/3295463'
 citation: 'Michael J. May, Etamar Laron, Khalid Zoabi, and Havah Gerhardt. <u>On the Lifecycle of the File</u> in <i>ACM Trans. Storage</i> 15, 1, Article 1 (February 2019), 45 pages. https://doi.org/10.1145/3295463.'
 ---
 

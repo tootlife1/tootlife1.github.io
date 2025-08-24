@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Pennsylvania, Computer and Information Science, 2008
-* M.Sc. in University of Pennsylvania, Computer and Information Science, 2004
-* B.Sc. in Loyola University Chicago, Computer Science, 2002
+* Ph.D. in Computer and Information Science, University of Pennsylvania, 2008
+* M.Sc. in Computer and Information Science, University of Pennsylvania, 2004
+* B.Sc. in Computer Science, Loyola University Chicago, 2002
 
-Work experience
+Work Experience
 ======
-* 2008-Present: Lecturer and Senior Lecturer
-  * Kinneret Academic College, Software + Information Systems Engineering
+* 2008-Present: Lecturer and Senior Lecturer | Kinneret College on the Sea of Galilee, Software + Information Systems Engineering
   * Responsible for programming practice and instruction for academic staff
   * Taught 15+ academic courses on computer networks, data security, software engineering, databases, algorithms, distributed systems, operating systems, and Android development
   * Mentored junior lecturers and teaching assistants.
@@ -30,7 +29,7 @@ Work experience
   * Visiting researcher and lecturer at peer academic institutions in 2 European countries
   * Former department head
 
-* 2019-Present: CemoMemo Project | Co-Founder and Head 
+* 2019-Present: CemoMemo Project | Co-Founder and Head
   * Built cloud-based platform for crowd-based cemetery digitization.
   * Brought platform to 180+ cemeteries in 10+ countries with ~1K users.
   * Performed community outreach for local and international partners.
@@ -50,14 +49,24 @@ Work experience
   
 Skills
 ======
-* Software engineering
-* Model-based software engineering
-* Computer communications security and algorithmic research
-* Academic publication and presentation
-* Distributed software development (Java, C#, C, SQL, Python)
-* Mentoring
+
+**Programming Languages:**  
+* Java, C#, C, SQL, Python
+
+**Frameworks & Tools:**  
+* Distributed software development tools  
+* Automatic grading and plagiarism detection systems
+
+* Cybersecurity threat analysis and mitigation
+* Software engineering  
+* Model-based software engineering  
+* Algorithm design and implementation  
 * Complex software system design, documentation, and programming
-* Algorithm design and implementation
+
+**Research & Communication:**  
+* Computer communications security and algorithmic research  
+* Academic publication and presentation  
+* Mentoring  
 * Cyber security attack and mitigation
 
 Languages

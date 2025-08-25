@@ -228,6 +228,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  teaching-archive:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -271,7 +274,7 @@ defaults:
   # _teaching_archive
   - scope:
       path: ""
-      type: teaching
+      type: teaching-archive
     values:
       layout: single
       author_profile: true

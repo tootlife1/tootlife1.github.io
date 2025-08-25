@@ -14,9 +14,12 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Active Teaching"
     url: /teaching/    
-    
+
+  - title: "Teaching Archive"
+    url: /teaching-archive/    
+
   - title: "Portfolio"
     url: /portfolio/
         

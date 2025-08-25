@@ -8,4 +8,4 @@ date: 2015-06-30
 location: "Kiryat Ono, Israel"
 ---
 
-I presented the Authzoid Android secure authorization system I developed with Karthikeyan Bhargavan.  I showed how Android file sharing includes many security vulnerabilities how Authzoid shows a path forward for improving security and privacy in apps that share files.
+I presented the Authzoid Android secure authorization system I developed with Karthikeyan Bhargavan. I showed how Android file sharing includes many security vulnerabilities. Authzoid shows a path forward for improving security and privacy in apps that share files.

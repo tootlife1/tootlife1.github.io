@@ -61,13 +61,13 @@ There will be six assignments during the course of the semester, three with prog
 
 Each project can be done alone or in groups of two (2) students.
 
-> Programming Assignment 1 (12%): [Executables](/se317/317-Assignment1-gdb-objdump.pdf). Due: 17 November 2024
+> Programming Assignment 1 (12%): Executables. Due: 17 November 2024
 >
-> Programming Assignment 2 (12%): [Processes](/se317/317-Assignment2-Processes-No-Answers.pdf). Due: 28 November 2024
+> Programming Assignment 2 (12%): Processes. Due: 28 November 2024
 >
-> Programming Assignment 2 (12%): [C Programming and Processes](/se317/317-Assignment3-C-Text-Programming.pdf). Due: 19 December 2024
+> Programming Assignment 2 (12%): C Programming and Processes. Due: 19 December 2024
 >
-> Programming Assignment 3 (12%): [Threads, Monitors, Locks](/se317/317-Assignment4-Mutex-Monitors-Words.pdf). Due: 4 January 2025
+> Programming Assignment 3 (12%): Threads, Monitors, Locks. Due: 4 January 2025
 >
 > Interactive Lab 1 (8%): Scheduling Basics. Due: 14 January 2025
 >

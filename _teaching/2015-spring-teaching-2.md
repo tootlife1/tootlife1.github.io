@@ -1,20 +1,123 @@
 ---
-title: "Teaching experience 2"
+title: "SE 317: Operating Systems מערכות הפעלה"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Course"
+permalink: /teaching/5785-se317
+venue: "Kinneret College on the Sea of Galilee, Software Engineering"
+date: 2024-11-07
+location: "Kinneret College on the Sea of Galilee"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## SE 317: Operating Systems
 
-Heading 1
-======
+### Course Details
 
-Heading 2
-======
+  * **Lecture:** Thursday 8:00am-11:00am in Room 825
+  * **Targil:** Tuesday 2:00pm-4:00pm in Room 6201
+  * **Instructor:** [Michael J. May](https://www2.kinneret.ac.il/mjmay)
+  * **Email:** mjmay (at) kinneret,ac,il
+  * **Metargel:** Avi Zion
 
-Heading 3
-======
+The full detailed syllabus of the course is available [here](/syllabuses/OS-Fall-5785-Syllabus.pdf).
+
+-----
+
+### Topics:
+
+This is an introductory course to modern operating systems. Topics include process synchronization and interprocess communication, processor scheduling, memory management, virtual memory, signal handling, device management, I/O, and file systems (time permitting). The course recitations and homework will include a hands-on study of the Linux operating system design and kernel internals, including work with virtual Linux environments. The course will include experience with commercial virtualization tools and open source software.
+
+#### Course Goals:
+
+At the end of the course the student will be able to:
+
+1.  Write command line programs in C for standard Linux virtual machines which use standard system calls (*ex.* `fork()` and `nice()`), low-level I/O (*ex.* `open()`, file descriptors), and stream-level I/O (*ex.* `fopen()`, `FILE*`).
+2.  Write a **Makefile** and use it to compile C programs using `make` and `gcc`.
+3.  Use the GNU debugger `gdb` to debug command line applications in Linux, including multi-process and multi-threaded ones.
+4.  Manage source code repositories using `git` and [Github](https://github.com).
+5.  Explain the basics of OS protection mechanisms and structures (*i.e.* process, thread, memory address space, virtual memory).
+6.  Use the PThreads library to write C programs which use user level threads, semaphores, and condition variables.
+7.  Explain the fundamentals of mutual exclusion and deadlock detection and prevention.
+8.  Explain the fundamentals of process and thread scheduling and how the mechanisms used in the O(1) Scheduler and the Linux Completely Fair Scheduler (CFS) work.
+9.  Explain the operation of memory management techniques: segments, pages, multi-level page table, inverted page table.
+10. Explain the operation of file systems (FAT, NTFS, FFS) and fundamental data structured related to them (inode, MFT).
+
+-----
+
+### Reading
+
+The following books are used in the class:
+
+  * Thomas Anderson and Michael Dahlin. *Operating Systems: Principles and Practice*. Recursive Books, 2nd edition, 2014.
+  * Robert Love. *Linux Kernel Development*. Addison-Wesley Professional, 3rd edition, 2010.
+  * William Stallings. *Operating Systems: Internals and Design Principles*. Prentice Hall, 8th edition, 2015.
+
+The library has copies of the books listed, but students are encouraged to purchase the books as needed.
+
+-----
+
+### Assignments
+
+There will be six assignments during the course of the semester, three with programming and three with interactive labs.
+
+Each project can be done alone or in groups of two (2) students.
+
+> Programming Assignment 1 (12%): [Executables](/se317/317-Assignment1-gdb-objdump.pdf). Due: 17 November 2024
+>
+> Programming Assignment 2 (12%): [Processes](/se317/317-Assignment2-Processes-No-Answers.pdf). Due: 28 November 2024
+>
+> Programming Assignment 2 (12%): [C Programming and Processes](/se317/317-Assignment3-C-Text-Programming.pdf). Due: 19 December 2024
+>
+> Programming Assignment 3 (12%): [Threads, Monitors, Locks](/se317/317-Assignment4-Mutex-Monitors-Words.pdf). Due: 4 January 2025
+>
+> Interactive Lab 1 (8%): Scheduling Basics. Due: 14 January 2025
+>
+> Interactive Lab 2 (8%): Paging. Due: 27 January 2025
+>
+> Interactive Lab 2 (8%): FS Implementation. Due: 3 February 2025
+
+Assignments are on [Moodle](https://moodle85.kinneret.ac.il). More details of assignments will be given during the course of the semester.
+
+-----
+
+### Grading Criteria
+
+Final grades will be calculated by combining grades from assignments and quizzes. The final grades will be calculated as follows:
+
+  * 60% Assignments (required)
+  * 20% Recitation exercises (required)
+  * 20% In class quizzes (required)
+
+-----
+
+### Lecture Slides and Notes
+
+| \# | Date | Topic | Slides |
+|---|---|---|---|
+| 1 | 7 Nov | Introduction, OS Overview | [pdf](/se317/317-Lecture-1-Intro-OS.pdf) |
+| 2 | 14 Nov | OS History\<br\>Virtual Machines\<br\>4 OS Fundamental Concepts | [pdf](/se317/317-Lecture-2-History-VMs-4Concepts.pdf) |
+| 3 | 21 Nov | 4 Fundamental Concepts\<br\>Base and Bound Memory Protection | [pdf](/se317/317-Lecture-3-4Concepts-BaseBound.pdf) |
+| 4 | 28 Nov | Base and Bound to Segments\<br\>Introduction to scheduler, PCB\<br\>SMT, Fork | [pdf](/se317/317-Lecture-4-BB-KernelStack-Scheduler-SMT-fork.pdf) |
+| 5 | 5 Dec | Signals and Process Control\<br\>I/O High and Low\<br\>Drivers, Sockets | [pdf](/se317/317-Lecture-5-signals-highloio-drivers-sockets.pdf) |
+| 6 | 12 Dec | Concurrency: Processes and Threads\<br\>Cooperating Threads | [pdf](/se317/317-Lecture-6-processes-threads.pdf) |
+| 7 | 19 Dec | Synchronization, Mutual Exclusion\<br\>Semaphores\<br\>Condition Variables and Monitors | [pdf](/se317/317-Lecture-7-Cooperating-Locks-Sem-Monitors.pdf) |
+| 8 | 26 Dec | Barrier Synchronization\<br\>Readers/Writers\<br\>Monitors and High Level Languages\<br\>Scheduling Intro | [pdf](/se317/317-Lecture-8-Barrier-Readers-Writers-Scheduling.pdf) |
+| 9 | 2 Jan 2025 | Scheduling Algorithms\<br\>Scheduling Case Studies | [pdf](/se317/317-Lecture-9-Scheduling.pdf) |
+| 10 | 9 Jan | Starvation, Deadlock | [pdf](/se317/317-Lecture-10-Deadlock.pdf) |
+| 11 | 16 Jan | Memory Management and Translation\<br\>Segments, Paging, Page Tables | [pdf](/se317/317-Lecture-11-AddressSpaceSegmentsPages.pdf) |
+| 12 | 23 Jan | Page Tables\<br\>File Systems | [pdf](/se317/317-Lecture-12-PageTablesFileSystems.pdf) |
+| 13 | 30 Jan | Very simple file system\<br\>FAT, FFS, NTFS | [pdf](/se317/317-Lecture-13-FileSystems.pdf) |
+
+-----
+
+### Academic Integrity
+
+Cheating of any sort will not be tolerated. Student collaboration is encouraged, but within limits as set forth in the college's rules on academic integrity. Any students caught cheating will be immediately referred to the department head and the Dean and may receive a failing grade for the course.
+
+Cheating includes:
+
+  * Copying information, content, or verbatim text from other students, internet sites, books (other than the ones listed in the bibliography), other unaffiliated individuals to answer questions, solve problems, or aid in programming projects.
+  * Copying or submitting source code, documentation, or other programming aids *without attribution* from other students, *web sites*, online repositories, text books, open source programs, or other unaffiliated individuals.
+  * Project teams which submit work which is identical or substantially identical to work submitted by other project teams, whether current or from previous years.
+  * Other forms of academic misconduct as described at [this link](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/) or as reasonably assessed by the instructor, program head, or dean.
+
+If you have any questions about what constitutes cheating in the above rules, contact the instructor as early as possible.

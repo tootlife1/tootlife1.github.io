@@ -167,6 +167,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - syllabuses
+  - se317
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -269,7 +271,7 @@ defaults:
   # _teaching_archive
   - scope:
       path: ""
-      type: teaching_archive
+      type: teaching
     values:
       layout: single
       author_profile: true

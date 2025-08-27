@@ -5,6 +5,7 @@ permalink: /posts/2022/08/Project-templates-conference
 tags:
   - project templates
   - publications
+  - conferences
 ---
 
 Paper with Amir Tomer on improving capstone projects with fill-in templates in [IFIP WCCE 2022: World Conference on Computers in Education](https://www.wcce2022.org/).  More on the project and templates can be found at the [projects home page](/portfolio/capstone-project-templates/).

@@ -6,6 +6,7 @@ tags:
   - cemda
   - complex events
   - publications
+  - conferences
 ---
 
 Paper with Kobi Cohen, Hovav Menachem, and Yogev Swisa on complex events for Android appeared in [2022 ACM SIG APP Symposium on Applied Computing](http://www.sigapp.org/sac/sac2022/)

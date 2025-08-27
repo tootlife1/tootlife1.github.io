@@ -15,16 +15,7 @@ I am interested in ways of applying formal methods to evaluate privacy and secur
 
 I have been affiliated in the past with [Insup Lee's](https://www.cis.upenn.edu/~lee/home/index.shtml) [Real Time Systems Group](https://rtg.cis.upenn.edu/) and [Carl A.Gunter's](https://siebelschool.illinois.edu/about/people/faculty/cgunter) [Illinois Security Lab](https://seclab.illinois.edu/), including working on the [WSEmail project](/portfolio/wsemail/).
 
-I received my Ph.D. from the [University of Pennsylvania](https://www.cis.upenn.edu/). My [dissertation](/files/May08-dissertation.pdf) and a list of my [online publications](https://tootlife1.github.io/publications/) is available.
-
-News and Recent Activities
---
-
-*    Extended version of a paper with Amir Tomer on improving capstone projects with fill-in templates (October 2023) in [IFIP Advances in Information and Communication Technology](https://link.springer.com/book/9783031433924).
-*    Paper with Efrat Kantor on using CemoMemo and similar cemetery databases to analyze attitudes toward death and suicide in Halutzi, pre-state Israel at [AIS 2023](https://ws.eventact.com/Conference2023/Home).
-*    An extended version of a paper with Kobi Cohen, Hovav Menachem, and Yogev Swissa on complex events for Android published in [ACM SIGAPP Applied Computing Review](https://dl.acm.org/doi/abs/10.1145/3584014.3584016)
-*    Published [patent](https://patents.google.com/patent/IL284315B/en?) with Etamar Laron of Asparna on patch generation and application.
-*    Paper on [Donag](https://doi.org/10.1145/3507919), a new technique for producing significantly smaller deltas (differencing files) for compressed archives in [ACM Transactions on Storage](https://dl.acm.org/journal/tos)
+I received my Ph.D. from the [University of Pennsylvania](https://www.cis.upenn.edu/). My [dissertation](/files/May08-dissertation.pdf) and a list of my [online publications](/publications/) is available.
 
 Personal
 --

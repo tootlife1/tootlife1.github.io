@@ -98,3 +98,5 @@ Service and leadership
 * Served on Board of Kinneret Faculty Union/Senate
 * Chair of the Kinneret College Library Committee for 4 years
 * Serving on Kinneret College Student Appeals Committee
+* External expert reviewer (Requirements Engineering 2016, 2018, 2019 and IEEE Computer 2021)
+* Technical Program committee for ICIMP 2022 - 2008

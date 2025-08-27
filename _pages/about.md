@@ -13,9 +13,9 @@ I served as the head of the [Asparna](http://www.asparna.com/) Research Center (
 
 I am interested in ways of applying formal methods to evaluate privacy and security properties of protocols and policies. My work includes automated verification of security properties of web service protocols as well as the development of a language, theory, and tools for flexible evaluation of a wide variety of privacy policies.
 
-I have been affiliated in the past with [Insup Lee's](https://www.cis.upenn.edu/~lee/home/index.shtml) [Real Time Systems Group](https://rtg.cis.upenn.edu/) and [Carl A.Gunter's](https://siebelschool.illinois.edu/about/people/faculty/cgunter) [Illinois Security Lab](https://seclab.illinois.edu/), including working on the [WSEmail project](https://www2.kinneret.ac.il/mjmay/wsemail/index.html).
+I have been affiliated in the past with [Insup Lee's](https://www.cis.upenn.edu/~lee/home/index.shtml) [Real Time Systems Group](https://rtg.cis.upenn.edu/) and [Carl A.Gunter's](https://siebelschool.illinois.edu/about/people/faculty/cgunter) [Illinois Security Lab](https://seclab.illinois.edu/), including working on the [WSEmail project](/portfolio/wsemail/).
 
-I received my Ph.D. from the [University of Pennsylvania](https://www.cis.upenn.edu/). My [dissertation](https://www2.kinneret.ac.il/mjmay/pubs/May08-dissertation.pdf) and a list of my [online publications](https://tootlife1.github.io/publications/) is available.
+I received my Ph.D. from the [University of Pennsylvania](https://www.cis.upenn.edu/). My [dissertation](/files/May08-dissertation.pdf) and a list of my [online publications](https://tootlife1.github.io/publications/) is available.
 
 News and Recent Activities
 --
@@ -25,13 +25,6 @@ News and Recent Activities
 *    An extended version of a paper with Kobi Cohen, Hovav Menachem, and Yogev Swissa on complex events for Android published in [ACM SIGAPP Applied Computing Review](https://dl.acm.org/doi/abs/10.1145/3584014.3584016)
 *    Published [patent](https://patents.google.com/patent/IL284315B/en?) with Etamar Laron of Asparna on patch generation and application.
 *    Paper on [Donag](https://doi.org/10.1145/3507919), a new technique for producing significantly smaller deltas (differencing files) for compressed archives in [ACM Transactions on Storage](https://dl.acm.org/journal/tos)
-*    Paper with Amir Tomer on improving capstone projects with fill-in templates in [IFIP WCCE 2022: World Conference on Computers in Education](https://wcce2022.org/).  More on the project and templates can be found at the [projects home page](https://www2.kinneret.ac.il/mjmay/finalprojects.html).
-*    Paper with Kobi Cohen, Hovav Menachem, and Yogev Swisa on complex events for Android appeared in [2022 ACM SIG APP Symposium on Applied Computing](http://www.sigapp.org/sac/sac2022/)
-*    [CemoMemo paper](https://dl.acm.org/doi/10.1145/3467888) published in [ACM Journal on Computing and Cultural Heritage](https://dl.acm.org/journal/jocch).
-*    [WSEmail](https://www2.kinneret.ac.il/mjmay/wsemail/index.html) [paper](https://link.springer.com/article/10.1007%2Fs11761-019-00283-9) published in [Service Oriented Computing and Applications](https://link.springer.com/journal/11761).
-*    Our [CemoMemo cemetery digitization application](https://www.cemomemo.org/) has gotten coverage in major Israeli news sources in [ynet (HE)](https://www.ynet.co.il/articles/0,7340,L-5550458,00.html), [vesty (RU)](https://www.vesty.co.il/articles/0,7340,L-5550840,00.html), and [no camels (EN)](https://nocamels.com/2019/11/wikipedia-graves-israeli-app-cemomemo/)
-*    External expert reviewer (Requirements Engineering 2016, 2018, 2019 and IEEE Computer 2021)
-*    Technical Program committee for ICIMP 2022 - 2008
 
 Personal
 --

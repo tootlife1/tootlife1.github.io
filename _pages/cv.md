@@ -56,7 +56,6 @@ Skills
 **Frameworks & Tools:**  
 * Distributed software development tools  
 * Automatic grading and plagiarism detection systems
-
 * Cybersecurity threat analysis and mitigation
 * Software engineering  
 * Model-based software engineering  
